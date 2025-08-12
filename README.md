@@ -1,1 +1,2 @@
-run python gui.py
+###运行
+python gui.py
