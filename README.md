@@ -1,2 +1,1 @@
-###运行
-python gui.py
+You can input command on the terminal:python gui.py
